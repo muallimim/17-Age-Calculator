@@ -22,3 +22,9 @@ body{
 #btnHesapla{
     font-size: 22px;
 }
+
+#result{
+    text-align: center;
+    font-size: 32px;
+    color: blueviolet;
+}
